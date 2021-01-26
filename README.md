@@ -2,12 +2,13 @@
 Unreal Engine 4 project (v 4.25)
 
 ### Controls
-W,A,S,D - movement
-Spacebar - jump
-Mouse - looking around
-Left Mouse - basic attack
-Right Mouse - ultimate attack
-F11 - fullscreen
+W,A,S,D - movement  
+Spacebar - jump  
+Mouse - looking around  
+Left Mouse - basic attack  
+Right Mouse - ultimate attack  
+F11 - fullscreen  
+Escape - quit game
 
 ### Goal
 

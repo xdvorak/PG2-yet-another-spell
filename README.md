@@ -1,5 +1,7 @@
 # PG2-yet-another-spell
-Unreal Engine 4 project (v 4.25)
+Unreal Engine 4 project (v 4.25)  
+Shipping build available:  
+https://drive.google.com/file/d/1NtWbMJyv1aici1xXUX1Q_WkL1arl6BGP/view?usp=sharing
 
 ### Controls
 W,A,S,D - movement  
